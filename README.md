@@ -1,0 +1,1 @@
+# Automated-Number-Pate-Reader---Yolov8-with-Tesseract
