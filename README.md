@@ -1,6 +1,14 @@
 # Automated-Number-Pate-Reader---Yolov8-with-Tesseract
 
 This project detects and reads license plates from a video. It uses a YOLO model to find license plates and Tesseract OCR to read the text on them. The detected license plate images and their text are saved to a folder and a CSV file. The project is built with Python using OpenCV for video handling, YOLO for detection, and Tesseract for text recognition.
+
+
+## First Step - Train your YOLO model ( custom model )
+
+
+
+1. **Train your model from:**
+
 <https://gmultichat.streamlit.app/>
 
 
