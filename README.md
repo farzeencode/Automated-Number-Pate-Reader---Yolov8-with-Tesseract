@@ -7,11 +7,14 @@ This project detects and reads license plates from a video. It uses a YOLO model
 
 
 
-1. **Train your model from:**
-
-<https://gmultichat.streamlit.app/>
-
-
+1. **First download the files to train your YOLO model in the yolov8 format ,
+   [Data to Train your model](https://universe.roboflow.com/samrat-sahoo/license-plates-f8vsn/dataset/5): so this includes:**
+   
+- train
+- test
+- valid
+- **Note:** Use train images according to your spec 
+2. **Train your model from Automated_Number_plate_reader.ipynb  file:**
 
 ## Features
 
